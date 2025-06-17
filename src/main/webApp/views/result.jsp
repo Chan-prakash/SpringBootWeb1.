@@ -5,8 +5,8 @@
         <link rel="stylesheet" type="text/css" href="Style.css">
     </head>
     </body>
-
-        <h2>Result is : ${result} </h2>
+        <h2> Welcome to coding hub</h2>
+        <p> Result is : ${alien} </p>
 
     </body>
 </html>
